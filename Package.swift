@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GitHubCore",
-            url: "https://github.com/CodeSphere-Academy/GitHubCoreSDK/releases/download/v1.0.0/GithubCore.xcframework.zip",
-            checksum: "59c6a0f0bd1de071064676c34000f19e4cd3e68d9b15e8a50caff6c521489ba5"
+            url: "https://github.com/CodeSphere-Academy/GitHubCoreSDK/releases/download/v1.1.0/GithubCore.xcframework.zip",
+            checksum: "7f7f47d5cf9662f2d94b93960dd937ed0fc0690b66e2f07188f474a005ff8c73"
         )
     ]
 )
